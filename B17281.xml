@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the blew ball in little Kerby street in Hatton Garden in Holborn liveth a gentlewoman,</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17281</idno><idno type="EEBO-CITATION">99888761</idno>
+  <idno type="VID">195961</idno>
+  <idno type="EEBO-PROQUEST">2240903668</idno>
+  
+            <idno type="STC">Wing A4098eA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[156]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R231858</idno>
+            <idno type="PROQUEST">ocm99888761</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888761e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195961)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[157])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the blew ball in little Kerby street in Hatton Garden in Holborn liveth a gentlewoman,</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Smallpox --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="advert_for_a_doctor_and_cosmetician">
+                  <pb facs="tcp:195961:1"/>
+                  <pb facs="tcp:195961:1"/>
+                  <head>At the <hi>Blew-Ball</hi> in little <hi>Kerby Street</hi> in <hi>Hatton Garden</hi> in <hi>Holborn</hi> liveth a Gentlewoman,</head>
+                  <p>WHo (without making any preambles how or from whence she gain'd her Art) is willing to tell the World in few words, that (through the blessing of God) she is to a wonder suc<g ref="char:EOLhyphen"/>cessful in working a speedy cure on those that have either <hi>Rickets,</hi> or <hi>Deafness,</hi> as many both rich and poor can truly witness. She has a <hi>Searcloath,</hi> which hath been highly approv'd by several, for taking away all manner of <hi>Pains</hi> and <hi>Aches,</hi> and is so excellent for <hi>Sore eyes</hi> in general, that nothing curable can come amiss to her; she has also a safe and certain way of curing <hi>Agues</hi> by an outward application; with several other things, which she thinks not altogether conveni<g ref="char:EOLhyphen"/>ent to be mention'd in this paper.</p>
+                  <p>This Gentlewoman hath likewise a most <hi>Excellent</hi> and <hi>Wonderful Art</hi> to make the Hair grow wherever it be wanting, though there had been none before (as she hath already done to the admiration of several.)</p>
+                  <p>She hath likewise an incomparable <hi>Wash</hi> for the <hi>Face</hi> that takes out <hi>Freckles,</hi> all sorts of <hi>Spots,</hi> red or yellow, with a great <hi>Secret</hi> to smooth, the face though never so full of <hi>Wrinkles,</hi> she makes them look equally <hi>Fair</hi> and <hi>Smooth</hi> to the youngest, especially those that have have been lately prejudic'd by the <hi>Smal-Pox.</hi> She likewise hath a <hi>Water</hi> that takes all sorts of <hi>Worms</hi> out of the face; She sells a very <hi>Fine Powder</hi> for the <hi>Teeth,</hi> and hath also an <hi>Excellent Art</hi> to make the <hi>Hands</hi> white smooth, and soft, with a sweet <hi>Salve</hi> to make the lips soft and ruddy.</p>
+                  <p>This same Gentlewoman is always ready to give an answer to any reasonable question that shall be askt her, of what kind soever it be, whether of things past, things now depending, or things to come.</p>
+                  <p>
+                     <hi>She is to be spoken with at her House above mention'd from 9. in the morning till at 9. night, where she hopes to satisfie all that comes to her.</hi>
+                  </p>
+                  <p>By Allowance.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="advert_for_medicine">
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:195961:2"/>
+                  <p>They give great Relief in <hi>Hypoohondraick Melancholy,</hi> for they open <hi>Obstructi<g ref="char:EOLhyphen"/>ons</hi> of the <hi>Spreen, evacuate adust Melancholy Humours from the Stomach</hi> amend the <hi>Distemper of the Bowels,</hi> and <hi>strengthen the Vital Part<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> thereby preventing the Pas<g ref="char:EOLhyphen"/>sions of the Mind, as <hi>Grief, Anger, Melancholy, Peevishntss, &amp;c.</hi>
+                  </p>
+                  <p>They perfectly Cure the <hi>Jaundice,</hi> a Distemper arising from the evil disposition of the <hi>Liver,</hi> and Obstructions of the <hi>Gall,</hi> hindring the separation of the Chole<g ref="char:EOLhyphen"/>rick humours from the Blood, which Nature striving to cast out, cause the yellow<g ref="char:EOLhyphen"/>ness of the Skin.</p>
+                  <p>The <hi>Green Sickness</hi> is a Disease arising from the Obstructions of the <hi>Veins</hi> about the <hi>Womb, Liver, Spleen</hi> and <hi>Mesentery,</hi> causing various Symptomes in young Wo<g ref="char:EOLhyphen"/>men, the course of Nature being stopt, producing a <hi>Cachexie</hi> or evil h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bit of the Body, alters the <hi>Complexion,</hi> sending ill Vapours to the <hi>Brain,</hi> causeth a Loathing of Meats that are good, occasion swellings in the Belly and Legs, with unwilling<g ref="char:EOLhyphen"/>ness to exercise, attended sometimes with difficulty of Breathing, and universally indispose the Body, so that most Distempers incident to Women may arise from it, by taking some Doses of my pills you may have a perfect Cure in a short time, (with the Blessing of God) as many can testifie.</p>
+                  <p>☜ I have Cured hundreds of <hi>Deafness</hi> with these Pills, when no other Physick, nor Manual Operation could perform it; and certainly they are most excellent for all Distempers in the Head, whether primary or by consent, as <hi>inveterate Head<g ref="char:EOLhyphen"/>aches, Phrensies, Giddiness, Convulsions, Apoplexies</hi> and <hi>Stupefactions;</hi> for they won<g ref="char:EOLhyphen"/>derfully strongthen the <hi>Brain</hi> and <hi>Memory.</hi>
+                  </p>
+                  <p>It is a certain and speedy Remedy which never fails in the <hi>Wind-cholick,</hi> oft<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imes giving ease in two houres beyond expectation, and is an excellent Stomach-pill, causing good digestion, curing defluxions of sharp humours, as <hi>Catarrhs</hi> and tickling <hi>Coughs, Killing Wormes</hi> of all sorts in old or young, giving speedy ease to <hi>Sharpness of Urine, the Running of the Reins,</hi> curing all <hi>Surfeits</hi> got by drink<g ref="char:EOLhyphen"/>ing, or otherwise, assisting much toward the Curing of <hi>old Ulcers</hi> in the Legs, or any swellings whatever, and is very proper to be taken after any Fit of Sickness, to prevent a Relapse; ☜ And is very necessary to be taken to prepare the Body; As likewise after the Drinking of <hi>Tunbridge, Epsom, Dullage</hi> water, <hi>&amp;c.</hi> to carry off those earthly Impurities which may remain in the Body, for they gently purge off all offending humours, sweetning the Blood, and strengthning the Noble parts, enabling them to stand, without decaying old Age.</p>
+                  <p>These pills are Sealed up in Tin boxes, the price of the half Box containing twelve pills is one shilling six pence, and the whole Box containing four and twenty pills is three shillings with Directions, and are sold by the Author at the <hi>blew Ball</hi> in <hi>Haydon</hi>-yard in the <hi>Minories,</hi> and at Mr. <hi>Benjamin Harris</hi>'s at the <hi>Stationers Armes</hi> in the <hi>Piazza</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> and at no other places.</p>
+                  <p>☜ This pill is free from <hi>Mercury,</hi> and if any person hath been damnified by it, this Noble pill carrieth off whatever poisonous quality it hath left in the Body.</p>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
